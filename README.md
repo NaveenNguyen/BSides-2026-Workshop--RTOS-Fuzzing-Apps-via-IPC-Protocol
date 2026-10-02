@@ -1,3 +1,14 @@
+# BSides Krakow 2026 – Fuzzing RTOS and Embedded IPC: Vulnerability Research for Less Documented Protocols and Systems
+
+Workshop materials from the BSides Krakow 2026 workshop.
+
+##Co-developed and co-presented a hands-on cybersecurity workshop at BSides; repository contains workshop slides, labs, demonstrations, and supporting code.
+
+## Presenters
+
+- Naveenkumar Angappan (NaveenNguyen)
+- Kashif Amanat (https://github.com/kashif-23/)
+
 # RTOS IPC Fuzzing Workshop
 
 A hands-on workshop on assessing an embedded system through a UART interface, discovering its message-processing attack surface, and progressing from manual testing to protocol-aware fuzzing.
